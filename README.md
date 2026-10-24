@@ -2,7 +2,7 @@
 
 Final-year CSE student at IEM, interested in networking, Linux and infrastructure operations.
 
-- Run a personal homelab across Kolkata and Nabadwip using Proxmox VE, TrueNAS, Ubuntu and Tailscale.
+- Run a personal homelab using Proxmox VE, TrueNAS, Ubuntu and Tailscale.
 - Work with virtual machines, storage pools, network shares and SSH remote administration.
 - Practise networking fundamentals and switch configurations in Cisco Packet Tracer.
 - Tech Lead, Robotics Club; seeking internships in network support, NOC and infrastructure operations.
